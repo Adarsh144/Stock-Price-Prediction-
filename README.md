@@ -24,5 +24,6 @@ We have taken historical dataset form yahoo finance about bitcoin. After the dat
 
 
 ## Pre-requisites
+- Python 3.8+
 - Use Google collab or Jupyter Notebook.
 - Accordinly what you are using, install the libraries as in the code.
